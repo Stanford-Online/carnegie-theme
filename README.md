@@ -15,3 +15,7 @@ The proposed theming solution for edX (see [this pull](https://github.com/edx/ed
 for more details) provides a number of hooks for themes to adjust
 both HTML and CSS to their liking.
 
+DEPRECATED
+==========
+This was never converted to Comprehensive Theming.
+It is no longer supported and should not be used.
